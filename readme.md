@@ -139,6 +139,7 @@ A list of game development resources
 - [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
 - [Big list of free programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 - [GD Magazine Archive](http://www.gdcvault.com/gdmag)
+- [Procedural Content Generation in Games](http://pcgbook.com/)
 
 ## Sound, music and effects
 - [Poise-FX](http://code.google.com/p/poise-sfx/)
