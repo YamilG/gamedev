@@ -168,3 +168,4 @@ A list of game development resources
 - [jsGameWiki](https://github.com/DaRaFF/jsgamewiki)
 - [Motion Capture Artist](http://mocapartist.com/)
 - [Game Patterns](http://www.game-patterns.com/)
+- [Mozilla's Resources for HTML5 game developers](https://hacks.mozilla.org/2014/07/resources-for-html5-game-developers/)
