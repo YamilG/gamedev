@@ -161,6 +161,7 @@ A list of game development resources
 - [Free Sound Effects Archive](http://www.grsites.com/archive/sounds/)
 - [The Mod Archive](http://modarchive.org/)
 - [Sound Bible](http://soundbible.com/)
+- [8ve](http://raisedbeaches.com/octave/)
 
 ## Misc
 - [OpenKit](http://openkit.io/)
@@ -169,3 +170,4 @@ A list of game development resources
 - [Motion Capture Artist](http://mocapartist.com/)
 - [Game Patterns](http://www.game-patterns.com/)
 - [Mozilla's Resources for HTML5 game developers](https://hacks.mozilla.org/2014/07/resources-for-html5-game-developers/)
+- [The Psychology of Video Games](http://www.psychologyofgames.com/)
