@@ -1,6 +1,6 @@
 # Game Development Resources
 
-A list of game development resources
+A curated list of game development resources
 
 ## Software & Tools
 
@@ -171,3 +171,4 @@ A list of game development resources
 - [Game Patterns](http://www.game-patterns.com/)
 - [Mozilla's Resources for HTML5 game developers](https://hacks.mozilla.org/2014/07/resources-for-html5-game-developers/)
 - [The Psychology of Video Games](http://www.psychologyofgames.com/)
+- [Open Source Game Clones](http://osgameclones.com/)
