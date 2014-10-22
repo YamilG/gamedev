@@ -26,6 +26,7 @@ A curated list of game development resources
 - [RPG Maker](http://www.rpgmakerweb.com/)
 - [Tiled Map Editor](http://www.mapeditor.org/)
 - [Spriter](https://www.kickstarter.com/projects/539087245/spriter/)
+- [Parse's Unity SDK](https://parse.com/products/unity)
 
 ## Engines, Libraries & Frameworks
 - [Pixi.js](https://github.com/GoodBoyDigital/pixi.js)
