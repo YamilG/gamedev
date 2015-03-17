@@ -141,6 +141,7 @@ A curated list of game development resources
 - [Big list of free programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 - [GD Magazine Archive](http://www.gdcvault.com/gdmag)
 - [Procedural Content Generation in Games](http://pcgbook.com/)
+- [The Book of Shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/)
 
 ## Sound, music and effects
 - [Poise-FX](http://code.google.com/p/poise-sfx/)
